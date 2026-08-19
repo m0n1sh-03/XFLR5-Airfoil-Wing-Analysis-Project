@@ -113,23 +113,27 @@ The wing-level XFLR5 analyses are included to extend the comparison beyond isola
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 XFLR5-Airfoil-Wing-Analysis-Project/
-│
 ├── airfoil-analysis/
-│   ├── CLARKY/
+│   ├── CLARK Y/
 │   ├── E214/
 │   ├── MH32/
 │   ├── NACA4412/
 │   └── S1210/
-│
 ├── wing-analysis/
-│   ├── CLARKY/
+│   ├── CLARK Y/
 │   ├── E214/
 │   ├── MH32/
 │   ├── NACA4412/
 │   └── S1210/
-│
+├── results/
+|   └── plots/
+|       ├── airfoils/
+|       └── wings/
+├── generate-plots.py
 ├── README.md
 └── LICENSE
 ```
