@@ -113,8 +113,6 @@ The wing-level XFLR5 analyses are included to extend the comparison beyond isola
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 XFLR5-Airfoil-Wing-Analysis-Project/
 ├── airfoil-analysis/
