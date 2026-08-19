@@ -92,6 +92,17 @@ E214 produced the highest maximum `CL/CD`, indicating that it achieved the highe
 
 Therefore, the selection of S1210 as the overall candidate is based on the combined priority given to **lift capability and endurance-related performance**, rather than claiming that it is superior in every individual metric.
 
+## Python Post-Processing
+
+Python was used in VS Code for automated post-processing and visualization of the aerodynamic data exported from XFLR5.
+
+The Python scripts were used to:
+
+- Import and process XFLR5 polar data.
+- Generate comparative **CL–α, CD–α, CL/CD–α, and Cm–α** plots.
+- Compare the aerodynamic performance of the selected airfoils.
+- Automatically generate plots for analysis and presentation.
+
 ## Conclusion
 
 Based on the defined selection criteria, **S1210 was selected as the overall candidate** among the five analysed airfoils.
